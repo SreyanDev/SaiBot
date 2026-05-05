@@ -1,0 +1,9 @@
+!xp add @user amount
+!xp remove @user amount
+!xp reset @user
+!xp resetall
+!confirmreset
+
+!xp
+!leaderboard
+!levelinfo
