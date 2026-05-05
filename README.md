@@ -32,8 +32,8 @@ If versions appear, setup is complete.
 ## 1) Clone project
 
 ```bash id="p2"
-git clone https://github.com/YOUR_USERNAME/SreyanDev.git
-cd SreyanDev
+git clone https://github.com/YOUR_USERNAME/SaiBot.git
+cd SaiBot
 ```
 
 ---
